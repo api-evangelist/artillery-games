@@ -46,7 +46,6 @@ tags:
 - Gaming
 - Games
 - Game Engine
-- Startups
 - Venture Backed
 - Defunct
 tags_raw:
@@ -54,7 +53,6 @@ tags_raw:
 - Gaming
 - Games
 - Game Engine
-- Startup
 - Venture Backed
 - Defunct
 apis: []
@@ -74,3 +72,7 @@ common:
   name: GitHub
   x-relationship: acquired
   x-evidence: "The company was acquired by GitHub in 2017 and no longer operates as an independent entity; its former artillery."
+x-tags-removed:
+- Startups
+x-company-stage: venture-backed
+x-company-stage-evidence: "own tags: Startup, Venture Backed"
